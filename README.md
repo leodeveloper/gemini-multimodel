@@ -1,5 +1,7 @@
 # Advanced Invoice Reader Powered by Google Gemini Pro Multimodal AI
 
+![Invoice Reader](https://github.com/leodeveloper/gemini-multimodel/blob/main/GeminiModelUrdu.png)
+
 In the ever-evolving world of technology, innovation is key. Today, I am excited to share a project that leverages the cutting-edge capabilities of Google Gemini Pro multimodal AI to transform the way we handle invoices. This powerful tool can read and process invoices in multiple languages, including English and Urdu, providing a versatile and efficient solution for businesses and individuals alike.
 
 ## The Project: Invoice Reader
