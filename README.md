@@ -1,4 +1,4 @@
-# Advanced Invoice Reader Powered by Google Gemini Pro Multimodal AI
+# Advanced Invoice Reader Powered by Google Gemini Pro Multimodal AI and Multi Lingual
 
 ![Invoice Reader](https://github.com/leodeveloper/gemini-multimodel/blob/main/GeminiModelUrdu.png)
 
