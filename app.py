@@ -60,3 +60,8 @@ if submit:
 
     st.subheader("this response is")
     st.write(response)
+
+
+
+footer = """<style>.footer {position: fixed;left: 0;bottom: 0;width: 100%;background-color: #000;color: white;text-align: center;}</style><div class='footer'><p>Copyright 2024, feel free to contact leodeveloper@gmail.com</p></div>"""
+st.markdown(footer, unsafe_allow_html=True)
